@@ -27,3 +27,18 @@ The goal is to identify patterns that influence motorbike purchases and regional
 ## 📁 Files Included
 - `.pbix` Power BI report
 - Dashboard screenshots
+- ## 📷 Dashboard Screenshots
+
+### Project Overview
+<img src="01_Project_Overview.png" width="600">
+
+### Overview
+<img src="02_Overview.png" width="600">
+
+### Demographics
+<img src="03_Demographics.png" width="600">
+
+### Behavioral Insights
+<img src="04_Behavioral_Insights.png" width="600">
+
+
